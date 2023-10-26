@@ -1,3 +1,6 @@
-@ WebHandler Language="C#" Class="Handler"
 <!DOCTYPE html>
 <html>
+    <head></head>
+    <body>
+    </body>
+</html>
